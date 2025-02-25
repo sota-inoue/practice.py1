@@ -14,4 +14,4 @@ for i in range(N):
     if judge == True:
         print(i + 1);
     else:
-        print(*output);t);
+        print(*output);
